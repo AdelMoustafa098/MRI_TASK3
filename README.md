@@ -29,7 +29,7 @@ we have 4 row to fill in K-Space
 
 **This video Simulate Without nonuniformty effect**
 
-![Video](Image/task3.mp4)
+![Video](Image/task3.gif)
 
 
 # Uniform K-Space 
